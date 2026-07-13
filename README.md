@@ -13,4 +13,6 @@ Prerequisites:
 
 3. `make -j8` then run the .gba file in the emulator
 
+**NOTE**: You will probably have to edit the `Makefile` to point to where you have Butano installed.
+
 4. It does nothing (this is a joke, just a UI).
